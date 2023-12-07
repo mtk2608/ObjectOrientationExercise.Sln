@@ -9,7 +9,7 @@ namespace ConsoleApp12
         {
             Book HarryPotter = new Book(true, 251, "HardCover", "Fiction", "02/07/1998");
 
-            Console.WriteLine("Harry Potter:Chamber of Secrets - No of Pages: " + HarryPotter.NoOfPages +HarryPotter.BestSeller);
+            Console.WriteLine("Harry Potter:Chamber of Secrets - No of Pages: " + HarryPotter.NoOfPages );
 
 
 
